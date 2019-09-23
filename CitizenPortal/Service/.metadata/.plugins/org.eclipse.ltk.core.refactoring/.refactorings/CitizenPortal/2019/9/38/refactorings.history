@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.ccc.CitizenPortal.App&apos; to &apos;CitizenPortalApp&apos;&#x0A;- Original project: &apos;CitizenPortal&apos;&#x0A;- Original element: &apos;com.ccc.CitizenPortal.App&apos;&#x0A;- Renamed element: &apos;com.ccc.CitizenPortal.CitizenPortalApp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;App&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.ccc.CitizenPortal{App.java[App" matchStrategy="1" name="CitizenPortalApp" qualified="false" references="true" similarDeclarations="false" stamp="1568612725850" textual="false" version="1.0"/>
+</session>
